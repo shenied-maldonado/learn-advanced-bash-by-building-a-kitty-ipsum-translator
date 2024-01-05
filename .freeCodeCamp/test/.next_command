@@ -47,3 +47,5 @@ man sed
 cat doggy_ipsum_1.txt
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt
 man diff
+man diff
+diff kitty_ipsum_1.txt doggy_ipsum_1.txt --color
